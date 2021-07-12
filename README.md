@@ -87,3 +87,4 @@ ChangeStreamDocument{
 ## 参考
 
 * [Tracking Changes in MongoDB With Scala and Akka](https://dzone.com/articles/tracking-changes-in-mongodb-with-scala-and-akka)
+* [alpakka mongodb document](https://doc.akka.io/docs/alpakka/current/mongodb.html)
