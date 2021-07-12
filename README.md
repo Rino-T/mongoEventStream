@@ -26,6 +26,13 @@ root@ef98e859c6e5:/# mongo # mongoシェル
 single_node_replica_set:PRIMARY> rs.status() # ステータス
 ```
 
+### docker container 終了
+
+```shell
+docker stop mongo
+docker container prune # コンテナ全部クリーン
+```
+
 ## プログラム起動
 
 ```shell
